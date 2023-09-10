@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "ES2021",
+        "module": "ES2022",
+        "rootDir": "./src",
+        "moduleResolution": "node",
+        "types": ["bun-types"],
+        "outDir": "./dist",
+        "newLine": "lf",
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "noImplicitAny": true,
+        "noImplicitThis": true,
+        "skipLibCheck": true
+    }
+}
